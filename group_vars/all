@@ -1,0 +1,2 @@
+# This benchmark contains linpack
+intel_mkl_benchmark_tgz: "l_mklb_p_11.3.3.011.tgz"
